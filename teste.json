@@ -1,0 +1,320 @@
+{
+    "Data_Ultima_Atualizacao_NCM": "04/02/2022",
+    "Nomenclaturas": [
+        {
+            "Codigo": "01",
+            "Descricao": "Animais vivos.",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "01.01",
+            "Descricao": "Cavalos, asininos e muares, vivos.",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0101.2",
+            "Descricao": "- Cavalos:",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0101.21.00",
+            "Descricao": "-- Reprodutores de raça pura",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0101.29.00",
+            "Descricao": "-- Outros",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0101.30.00",
+            "Descricao": "- Asininos",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0101.90.00",
+            "Descricao": "- Outros",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "01.02",
+            "Descricao": "Animais vivos da espécie bovina.",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.2",
+            "Descricao": "- Bovinos domésticos:",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.21",
+            "Descricao": "-- Reprodutores de raça pura",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.21.10",
+            "Descricao": "Prenhes ou com cria ao pé",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.21.90",
+            "Descricao": "Outros",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.29",
+            "Descricao": "-- Outros",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.29.1",
+            "Descricao": "Para reprodução",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.29.11",
+            "Descricao": "Prenhes ou com cria ao pé",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.29.19",
+            "Descricao": "Outros",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.29.90",
+            "Descricao": "Outros",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.3",
+            "Descricao": "- Búfalos:",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.31",
+            "Descricao": "-- Reprodutores de raça pura",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.31.10",
+            "Descricao": "Prenhes ou com cria ao pé",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.31.90",
+            "Descricao": "Outros",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.39",
+            "Descricao": "-- Outros",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.39.1",
+            "Descricao": "Para reprodução",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.39.11",
+            "Descricao": "Prenhes ou com cria ao pé",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.39.19",
+            "Descricao": "Outros",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.39.90",
+            "Descricao": "Outros",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0102.90.00",
+            "Descricao": "- Outros",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "01.03",
+            "Descricao": "Animais vivos da espécie suína.",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0103.10.00",
+            "Descricao": "- Reprodutores de raça pura",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0103.9",
+            "Descricao": "- Outros:",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0103.91.00",
+            "Descricao": "-- De peso inferior a 50 kg",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0103.92.00",
+            "Descricao": "-- De peso igual ou superior a 50 kg",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "01.04",
+            "Descricao": "Animais vivos das espécies ovina e caprina.",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "0104.10",
+            "Descricao": "- Ovinos",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        },
+        {
+            "Codigo": "9706.90.00",
+            "Descricao": "- Outras",
+            "Data_Inicio": "01/04/2022",
+            "Data_Fim": "31/12/9999",
+            "Tipo_Ato": "Res Camex",
+            "Numero_Ato": "000272",
+            "Ano_Ato": "2021"
+        }
+    ]
+}
