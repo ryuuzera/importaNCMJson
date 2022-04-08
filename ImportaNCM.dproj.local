@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/07 16:13:01.000.977,=C:\Users\Fagner\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/07 16:26:46.000.174,C:\Users\Fagner\Desktop\ImportarNCM\Unit1.dfm=C:\Users\Fagner\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/07 16:26:46.000.174,C:\Users\Fagner\Desktop\ImportarNCM\Unit1.pas=C:\Users\Fagner\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/07 16:26:48.000.224,C:\Users\Fagner\Desktop\ImportarNCM\Project1.dproj=C:\Users\Fagner\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/04/08 08:33:03.428,C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\View\ImportaNCM.Principal.View.pas=C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Unit1.pas</Transaction>
+    <Transaction>2022/04/08 08:33:03.428,C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\View\ImportaNCM.Principal.View.dfm=C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Unit1.dfm</Transaction>
+    <Transaction>2022/04/08 08:33:15.233,=C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Unit2.pas</Transaction>
+    <Transaction>2022/04/08 08:33:42.550,C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\View\ImportaNCM.Styles.View.pas=C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Unit2.pas</Transaction>
+    <Transaction>2022/04/08 08:35:59.236,=C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Unit2.pas</Transaction>
+    <Transaction>2022/04/08 08:36:16.095,C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Controller\ImportaNCM.Principal.Controller.pas=C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Unit2.pas</Transaction>
+    <Transaction>2022/04/08 09:52:59.620,=C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Unit2.pas</Transaction>
+    <Transaction>2022/04/08 09:56:06.103,C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\View\ImportaNCM.Status.View.dfm=C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Unit2.dfm</Transaction>
+    <Transaction>2022/04/08 09:56:06.103,C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\View\ImportaNCM.Status.View.pas=C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Unit2.pas</Transaction>
+    <Transaction>2022/04/08 14:47:53.505,=C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Unit2.pas</Transaction>
+    <Transaction>2022/04/08 14:48:21.977,C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Model\ImportaNCM.Principal.Model.dfm=C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Unit2.dfm</Transaction>
+    <Transaction>2022/04/08 14:48:21.977,C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Model\ImportaNCM.Principal.Model.pas=C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Unit2.pas</Transaction>
+    <Transaction>2022/04/08 16:05:54.177,C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\ImportaNCM.dproj=C:\Users\Fagner\Desktop\ImportarNCM\importaNCMJson\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
